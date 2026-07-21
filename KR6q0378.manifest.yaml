@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0378_000.yaml, hash: 'sha256:09415afc0ca387d6eaa1d2fbf005dbc996bba7b34a60f08b7efd798ececd48d1'}
+  - {seq: 0, filename: KR6q0378_000.yaml, hash: 'sha256:1e41ed0228f8b97a0b63af6d53b293fb7e565743be6b09dd347454e645f526a5'}
   - {seq: 1, filename: KR6q0378_001.yaml, hash: 'sha256:180d8d15108cad437225665c0d7bf290264b3779d5845f3bfde51e0fe738c1ba'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0378_000.markers.yaml, hash: 'sha256:02aedd846140f0245e1bb2675c6706bc4f7f19046f383d456ff491a417458899'}
+  - {seq: 0, role: markers, filename: assets/KR6q0378_000.markers.yaml, hash: 'sha256:87aa737b54c1adb03f05d9b23bc8ecc1faf36baffbc0f061b93acb0f6c027120'}
   - {seq: 1, role: markers, filename: assets/KR6q0378_001.markers.yaml, hash: 'sha256:a754c8c0959e17c540291723e0e3e422cc14612808253224e01b7e59a86cd87a'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0378_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1448-A 洪州分寧法昌禪院遇禪師語錄序
@@ -547,7 +547,7 @@ table_of_contents:
   label: 山谷老人頌
   type: mulu
   level: 1
-hash: sha256:46660e4279b304216dbc91aea64825f809fcb72e32a94d178d1e0dfc9cd1deb3
+hash: sha256:06004c93013770e7cc6c7480c46b5ab1a8b8b2f5d45c03193406ab917da14445
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

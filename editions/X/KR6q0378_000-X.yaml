@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0378/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 洪州分寧法昌禪院遇禪師語錄序南州徐俯今之住院為長老聚徒稱出世宗師者莫知其幾何人其平居舉揚問答之語門人弟子必錄之號曰語錄語錄之言滿天下而佛法益微豈言多去道轉遠𦘕餅不足以充飢耶蓋能言之者未必皆其人也欲知其道之淺深當視其人之賢不昔法昌老踈衣糲食冰清玉潔耡耰以給四方雲水之人學者莫能同其作勞又苦其枯淡挈挈然去之堂中至無人先君之少也未為人所知獨師先奇之鄉人知敬師也自先君始二人之交至相好也先君之音容邈矣三十年來無復此老之風味思其人而不可見則其語又可廢耶遂刊而傳之崇寧四年正月二十二日序
   hash: sha256:612fc6232149f2ea403b50c17c6302db2f5cef60bd6311660e0df4678944332b
   markers:
   - {type: 序, offset: 0, content: No. 1448-A 洪州分寧法昌禪院遇禪師語錄序, id: KR6q0378_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 法昌倚遇禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X73/X73n1448.xml
     old_id: X73n1448
-hash: sha256:ce6164c1315ecfa14d1fc904299a1372748dd6248b7b01dad93d46252d72bc93
+hash: sha256:04f6260c2f1dbf8d72adec5d67fb4e193795ecf75388b2246cd3efacb8d95a21

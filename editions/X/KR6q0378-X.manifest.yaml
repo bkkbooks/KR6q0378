@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0378_000-X.yaml, hash: 'sha256:ce6164c1315ecfa14d1fc904299a1372748dd6248b7b01dad93d46252d72bc93'}
+  - {seq: 0, filename: KR6q0378_000-X.yaml, hash: 'sha256:04f6260c2f1dbf8d72adec5d67fb4e193795ecf75388b2246cd3efacb8d95a21'}
   - {seq: 1, filename: KR6q0378_001-X.yaml, hash: 'sha256:ce08fdcbeeef830c3c88f621ff2a364e47c1a67e0a4e31dc896478dfdc2b6e62'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0378_000-X.markers.yaml, hash: 'sha256:7f158735949da2506c27d9379d168b9439da8ccfcf4f66c6d9945f6e083e3db7'}
+  - {seq: 0, role: markers, filename: assets/KR6q0378_000-X.markers.yaml, hash: 'sha256:c4f6517ccefaa93bb6d195bfc19f992ff32add6be2dde24d0a2d20a575d84351'}
   - {seq: 1, role: markers, filename: assets/KR6q0378_001-X.markers.yaml, hash: 'sha256:ff5dc76c47a28c8435ac40a92f38a71731f43abdecc14660e7c8397e5e6bd913'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0378_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1448-A 洪州分寧法昌禪院遇禪師語錄序
@@ -545,4 +545,4 @@ table_of_contents:
   label: 山谷老人頌
   type: mulu
   level: 1
-hash: sha256:2950cabed2e0b34af796f49e4d63fddd22571b9cc92a00011096231455e91b02
+hash: sha256:f2856b2a3b74a4e29915ded96cbbeebb11a77b2bd0ec84c2807c61caceb9db34
